@@ -2,3 +2,4 @@ k8s_airflow/dags/__pycache__/*
 k8s_airflow/logs/*
 k8s_airflow/airflow-webserver.pid
 k8s_airflow/unittests.cfg
+k8s_airflow/airflow.cfg
